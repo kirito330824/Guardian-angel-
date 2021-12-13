@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/a1805315/my_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1805315/my_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/guardian_notification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/guardian_notification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/00-starting/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/00-starting/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/Guardian-Angel/login/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/guradian_login/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a1734672/guradian_login/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
